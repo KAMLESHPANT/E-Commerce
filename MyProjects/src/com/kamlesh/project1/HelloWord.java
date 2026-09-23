@@ -5,10 +5,6 @@ public class HelloWord {
 		System.out.println("Hello Word");
 		System.out.println("JAVA Git Code");
 		
-		for (int i=0;i<10;i++)
-		{
-			System.out.println(i);
-		}
 	}
 
 }
